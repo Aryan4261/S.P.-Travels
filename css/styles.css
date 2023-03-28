@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
-:root{
-  background: #FDEEDC;
-}
+/* :root{
+  background: #E6D2AA;
+} */
 
 *{
   font-family: 'Nunito', sans-serif;
@@ -561,8 +561,8 @@ header .search-bar-container label:hover{
 }
 
 .footer .box-container .box a:hover{
+  text-decoration: none;
   color:var(--orange);
-  text-decoration: underline;
 }
 
 .footer .credit{
